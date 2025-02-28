@@ -52,7 +52,7 @@ This project is built using React, a JavaScript library for building user interf
 - Modify `ProductData.js` to update product details like the title, description, colors, and features.
 
 ## Demo
-- [Video demonstration](https://youtube.com/demo-link) (Replace with actual link)
+- [Video demonstration](https://youtu.be/j_bsX0crkRc) 
 
 ---
 
