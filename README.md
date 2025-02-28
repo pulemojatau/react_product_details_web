@@ -1,0 +1,1 @@
+# react_product_details_web
