@@ -1,6 +1,6 @@
 # Product Landing Page in React
 
-<img src="https://github.com/pulemojatau/react_product_details_web/blob/main/product_details.png" alt="Login Page" width="300" height="450">
+<img src="https://github.com/pulemojatau/react_product_details_web/blob/main/product_details.png" alt="Login Page" width="400" height="450">
 
 ## 📚 Product Landing Page
 A simple and interactive product landing page built using React. This page showcases a product with multiple features and color options, providing a clean user interface for users to explore the product. It can be used as a base for e-commerce sites or product-specific landing pages.
